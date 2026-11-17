@@ -1,0 +1,4 @@
+apple
+blue 
+computer
+dog
